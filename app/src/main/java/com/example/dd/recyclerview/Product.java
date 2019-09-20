@@ -1,12 +1,8 @@
 package com.example.dd.recyclerview;
 
-/**
- * Created by dd on 01.05.2017.
- */
-
 public class Product {
-    String text1, text2;
-    int image;
+    private String text1, text2;
+    private int image;
 
     public String getText1() {
         return text1;
